@@ -12,12 +12,12 @@ const Footer: React.FC = () => {
                     <p>
                         Crafted by <span className="font-semibold text-purple-600 dark:text-purple-400">Monty Chuff Gang</span> & Modified by{' '}
                         <a
-                            href="https://kiwiorbit.vercel.app/"
+                            href="https://x.com/resistance_aqsa"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="font-semibold text-primary-light dark:text-primary hover:underline"
                         >
-                            Kiwi Orbit
+                            Resistance on X
                         </a>
                     </p>
                 </div>
